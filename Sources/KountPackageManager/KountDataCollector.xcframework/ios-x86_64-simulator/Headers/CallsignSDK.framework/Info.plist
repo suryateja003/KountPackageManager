@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>20E241</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>CallsignSDK</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.callsign.CallsignSDK</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>CallsignSDK</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.11.5</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneSimulator</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>297145</string>
+	<key>CS_27a6f7b9</key>
+	<string>CS_41b3c6a6</string>
+	<key>CS_55cf3070</key>
+	<string>CS_be3a51c0</string>
+	<key>CallsignLongVersionString</key>
+	<string>5.11.5.297145.c0d1d57</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>18E182</string>
+	<key>DTPlatformName</key>
+	<string>iphonesimulator</string>
+	<key>DTPlatformVersion</key>
+	<string>14.5</string>
+	<key>DTSDKBuild</key>
+	<string>18E182</string>
+	<key>DTSDKName</key>
+	<string>iphonesimulator14.5</string>
+	<key>DTXcode</key>
+	<string>1250</string>
+	<key>DTXcodeBuild</key>
+	<string>12E262</string>
+	<key>MinimumOSVersion</key>
+	<string>10.0</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Roboto-Regular.ttf</string>
+		<string>cs_font_regular.ttf</string>
+		<string>cs_font_semibold.ttf</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+</dict>
+</plist>

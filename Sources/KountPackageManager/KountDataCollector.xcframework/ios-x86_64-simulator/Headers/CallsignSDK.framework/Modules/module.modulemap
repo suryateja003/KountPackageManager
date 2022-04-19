@@ -1,0 +1,6 @@
+framework module CallsignSDK {
+  umbrella header "CallsignSDK.h"
+
+  export *
+  module * { export * }
+}
