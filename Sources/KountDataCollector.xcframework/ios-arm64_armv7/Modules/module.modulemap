@@ -1,0 +1,7 @@
+framework module KountDataCollector {
+   header "KDataCollector.h"
+   header "KountAnalyticViewController.h"
+
+  export *
+  module * { export * }
+}
